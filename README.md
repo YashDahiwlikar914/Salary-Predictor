@@ -13,7 +13,7 @@ This was one of my first machine learning experiments — just wanted to underst
   - Loads the data using Pandas
   - Splits it into train/test sets
   - Trains a Linear Regression model (from scikit-learn)
-  - Visualizes both the training and test set results
+  - Visualises both the training and test set results
   - Evaluates accuracy using R² Score
 
 ---
@@ -54,4 +54,4 @@ _(How well the model generalizes on unseen data)_
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn
-python main.py
+python Main.py
